@@ -1,0 +1,130 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.nav {
+    background-color: #333333;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.nav-links {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-around;
+    width: 2000%;
+}
+
+.nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-title {
+    margin-left: 20px;
+}
+
+.btn {
+    height: 35px;
+    width: 100px;
+    background-color: #17a2b8;
+    color: white;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px black;
+}
+
+.usercard {
+    width: 500px;
+    border: 3px solid darkslategray;
+    background-color: rgb(224, 231, 237);
+    height: 300px;
+
+}
+
+#profilepic {
+    border-radius: 50%;
+    width: 80px;
+    border-color: rgb(2, 10, 10);
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+#mapmaker {
+    width: 10px;
+    margin-left: 20px;
+    padding-top: 10px;
+}#
+
+#gear {
+    width: 10px;
+    /* padding-left:20px;
+    margin-bottom: 20px;
+    padding-top: 40px; */
+}
+
+.header {
+    background-color: skyblue;
+    height: 75px;
+    align-items: ;
+}
+
+.editprofile {
+    /* padding-bottom: 20px; */
+    /* margin-left: 20px; */
+    /* /* padding-left: 20px; */
+    margin-bottom: 10px; */
+    /* margin-bottom: 20px; */
+    /* padding-bottom: 20px;
+    align-items: ; */
+    display: flex: ;
+}
+
+.userinfo {
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+.name {
+    margin-left: 20px;
+    padding-top: 30px;
+}
+
+.education{
+    border: 3px solid;
+    margin-right: 500px;
+    width: 500px;
+    height: 200px;
+    margin-left: 20px;
+    border-color: darkslategray ;
+    
+}
+.header2{
+    background-color: rgb(58, 61, 62);
+    /* margin-top: -20px; */
+    height: 50px;
+}
+.educationinformation{
+    padding-top: 20px;
+}
+
+.educationtitle{
+    padding-left: 30px;
+}
+
+.codingdojo{
+    
+}
+.p1{
+    padding-top: 20px;
+    margin-top: 20px;
+    align-items: ;
+    color: lightgrey;
+}
+
+
